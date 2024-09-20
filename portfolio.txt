@@ -1,0 +1,21 @@
+grid = used to dsiplay elements in rows and columns where we can fix the column width
+grid-template-row/column =to set width or column
+linear-gradient : is used to set combination of colours and background
+-syntax
+-css animations=(websites)
+animate.style( web site that gives animation to webpage)
+aos animation 
+webkit : to style scroll bar
+locomotive scroll
+website hosting
+-netlify
+-github
+
+--------------------------------------------------------------------------------------------
+GIT & github
+
+
+1.GIT: used to control version of aocde
+commands
+        -git status: used to check status of git inside the folder
+        -git init: used to  
