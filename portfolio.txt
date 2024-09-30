@@ -18,4 +18,6 @@ GIT & github
 1.GIT: used to control version of aocde
 commands
         -git status: used to check status of git inside the folder
-        -git init: used to  
+        -git init: used to create/ initiate git repositery in folder
+        -git add .: used to track all untracked files
+        -git commit -m "message" :used to save / store tracked files to git
